@@ -1,0 +1,6 @@
+# Public preview: only documentation and visual assets are included.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/assets/
